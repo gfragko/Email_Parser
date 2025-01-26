@@ -1,0 +1,887 @@
+<?xml version="1.0" standalone="yes"?>
+<docCase xmlns="http://tempuri.org/docCase.xsd">
+  <FrhtCargoCases>
+    <CaseID>b8ccde76-e61a-4e07-816c-f35c2ad4ce97</CaseID>
+    <CaseRef>PIR23/SE/31</CaseRef>
+    <EntryDate>2023-01-11T00:00:00+02:00</EntryDate>
+    <CarrierVessel>a5ddef03-13c8-48cc-bb27-412cf982f273</CarrierVessel>
+    <Start>2023-02-20T00:00:00+02:00</Start>
+    <Finish>2023-03-22T00:00:00+02:00</Finish>
+    <IsStartAct>true</IsStartAct>
+    <IsFinishAct>true</IsFinishAct>
+    <Carrier>00.173</Carrier>
+    <Voyage>IV306A</Voyage>
+    <Comments>ΣΗΚΩΣΑΜΕ ΚΕΝΟ 1/2 ΓΙΑΤΙ ΗΤΑΝ ΣΕ ΠΛΟΙΟ ΜΕ ΕΤΑ 6/2 ΚΑΙ ΘΑ ΦΟΡΤΩΝΑΜΕ 3/2
+1/2 ΑΠΟΓΕΥΜΑ Η MSC ΜΑΣ ΕΙΠΕ ΝΑ ΤΟ ΒΑΛΟΥΜΕ ΣΕ ΠΛΟΙΟ ΜΕ ΕΤΑ 11/2 ΓΙΑ ΛΙΓΟΤΕΡΟ Τ/Τ
+ΤΟ ΠΛΟΙΟ ΤΕΛΙΚΑ ΠΗΓΕ 14/2, ΔΕΝ ΔΕΧΟΜΑΣΤΕ EARLY PICK UP</Comments>
+    <POL>GRPIR</POL>
+    <POD>USBAL</POD>
+    <MoveType>2</MoveType>
+    <ActionType>1</ActionType>
+    <TransportName>MSC KIM</TransportName>
+    <MBL>MEDUPI904764</MBL>
+    <CaseTypeID>2</CaseTypeID>
+    <MBLTotalGross>0.00</MBLTotalGross>
+    <MBLTotalCBM>0.00</MBLTotalCBM>
+    <MBLTotalPKGS>0.00</MBLTotalPKGS>
+    <FlightDate>2023-02-03T00:00:00+02:00</FlightDate>
+    <FCLLCL>FCL</FCLLCL>
+    <CarrierName>MEDITERRANEAN SHIPPING COMPANY GREECE S.A.</CarrierName>
+    <ReferenceNo>230054</ReferenceNo>
+    <MBLTelexRelease>false</MBLTelexRelease>
+    <MBLPrepaidCollect>P</MBLPrepaidCollect>
+    <CasePrefix>PIR23/SE/</CasePrefix>
+    <DetailsCount>1</DetailsCount>
+    <Folder>EBKG04765240</Folder>
+    <POLName>PIRAEUS</POLName>
+    <PODName>BALTIMORE</PODName>
+    <Agent>00.141</Agent>
+    <CustomDocumentDate>2023-01-11T00:00:00+02:00</CustomDocumentDate>
+    <CountryOfDispatch>GR</CountryOfDispatch>
+    <CountryOfDestination>US</CountryOfDestination>
+    <BLTerms>CFR</BLTerms>
+    <MBLTotalLines>0</MBLTotalLines>
+    <OceanVessel>c8804a13-f450-45c5-bdec-3671e4740e5e</OceanVessel>
+    <OceanVesselName>MSC SILVANA</OceanVesselName>
+    <ProjectID>24464</ProjectID>
+    <timestamp>AAAAAAC610s=</timestamp>
+    <OperationClosed>true</OperationClosed>
+    <Conex>1</Conex>
+    <commonInvoicee>00.141</commonInvoicee>
+    <commonConsignee>00.12545</commonConsignee>
+    <commonShipper>00.2941</commonShipper>
+    <TransportType>0</TransportType>
+    <commonTransitPortOfDelivery>ESVLC</commonTransitPortOfDelivery>
+    <Comments2>R58222120000042</Comments2>
+    <commonTOS>EXW</commonTOS>
+    <commonAgencyVoyageDetail>113fe28b-d9ac-4094-a2c5-65f7f95217a1</commonAgencyVoyageDetail>
+    <CountryOfDispatchName>ΕΛΛΑΔΑ</CountryOfDispatchName>
+    <CreateTime>2023-01-11T14:42:24.14+02:00</CreateTime>
+    <UpdateTime>2023-04-21T11:10:08.823+03:00</UpdateTime>
+    <CaseClosed>true</CaseClosed>
+    <SiteID>00</SiteID>
+    <CaseTypeName>Ναυτιλιακό Εξαγωγή (PIR)</CaseTypeName>
+    <BLIssueType>1</BLIssueType>
+    <DestinationDeliveryType>b8e832a0-86af-4cfb-9430-3aaa0d6eeb32</DestinationDeliveryType>
+    <IsPostal>false</IsPostal>
+    <BudgetClosed>true</BudgetClosed>
+    <DepositRemarks>11/1 MSC ANAHITA MX304A, SHIPPER ROLLED MSC FIAMMETTA MX305A ETA 6/2, MSC ROLLED TO MSC LARA BETTER T/T</DepositRemarks>
+    <Options>0</Options>
+    <ExciseGoodsSupplierVessel>ed80c4a4-5cbc-43df-a8c6-c76d943e5ce1</ExciseGoodsSupplierVessel>
+    <Username>giorgos</Username>
+    <SpecialRemarks>* MSC LARA OMIT PIR PORT, CHANGED OF ROUTING MSC ROSARIA MX306A, MSC ROLLED MSC KIM NK305A
+
+B/L CONF AGAIN ON 20/2 AFTER MSC'S ROLL-OVER
+
+22/2 FMBL SENT TO ANT</SpecialRemarks>
+    <ID>25404</ID>
+    <MessageStatusCargoGroup>46e7d9c4-d7c2-4410-aeae-7bc04bb4300b</MessageStatusCargoGroup>
+    <RatingDate>2023-02-03T00:00:00+02:00</RatingDate>
+    <commonSalesManID>01</commonSalesManID>
+    <IOSS>3/2 SHIPPER</IOSS>
+    <H7ReadyToSubmit>false</H7ReadyToSubmit>
+    <ShipmentIncomplete>false</ShipmentIncomplete>
+    <EXSReady>false</EXSReady>
+    <BSISReady>false</BSISReady>
+    <NonDuty>false</NonDuty>
+    <LowValueExport>false</LowValueExport>
+    <CaseSuffix>31</CaseSuffix>
+    <IsClosed>true</IsClosed>
+    <commonNotify>00.141</commonNotify>
+    <commonAgent>00.141</commonAgent>
+    <commonAgency>00.173</commonAgency>
+    <InvoiceMethod>0</InvoiceMethod>
+    <POLIntName>PIRAEUS</POLIntName>
+    <PODIntName>BALTIMORE</PODIntName>
+    <ExciseGoodsSupplierVesselName>ΑΡΙΣΤΟΥ ΑΡΗΣ</ExciseGoodsSupplierVesselName>
+  </FrhtCargoCases>
+  <FrhtCargoActions>
+    <CargoID>1df3e4fc-a943-4309-bcc6-30b2f3cae7a4</CargoID>
+    <CargoActionID>b0c921ec-67bd-4b50-9916-09dbf55ccf80</CargoActionID>
+    <Start>2023-02-20T00:00:00+02:00</Start>
+    <Finish>2023-03-22T00:00:00+02:00</Finish>
+    <CarrierVessel>a5ddef03-13c8-48cc-bb27-412cf982f273</CarrierVessel>
+    <ActionType>1</ActionType>
+    <CaseID>b8ccde76-e61a-4e07-816c-f35c2ad4ce97</CaseID>
+    <BookingID>de33125c-746c-4a00-9a89-3e544ecac2e3</BookingID>
+    <Description>MIA AND ALYSSA MARBLE</Description>
+    <PortOfLoading>GRPIR</PortOfLoading>
+    <PortOfDelivery>USBAL</PortOfDelivery>
+    <PackageType>36fdaa09-de7e-4303-8714-f20900e3e763</PackageType>
+    <Quantity>21.000</Quantity>
+    <ContainerSize>20</ContainerSize>
+    <ContainerType>DV</ContainerType>
+    <Tara>2100</Tara>
+    <CargoReady>2023-02-03T00:00:00+02:00</CargoReady>
+    <IsETAAct>true</IsETAAct>
+    <GrossWeight>17800.000</GrossWeight>
+    <NetWeight>17500.000000</NetWeight>
+    <ContainerNo>MSMU1091830</ContainerNo>
+    <TOS>EXW</TOS>
+    <Shipper>00.2941</Shipper>
+    <Consignee>00.12545</Consignee>
+    <Invoicee>00.141</Invoicee>
+    <Agent>00.141</Agent>
+    <TransportName>MSC KIM</TransportName>
+    <HBL>NO HBL</HBL>
+    <TlxRelease>true</TlxRelease>
+    <TlxReleaseNotes>3/2 SHP'S RLS ORDER * 22/2 FMBL SENT TO SHP</TlxReleaseNotes>
+    <FCLLCL>FCL</FCLLCL>
+    <Notify>00.141</Notify>
+    <MoveType>2</MoveType>
+    <CargoTrackID>39654</CargoTrackID>
+    <FullAddressLoading>52nd KLM. NATIONAL RD. ATHENS-LAMIA 
+ΑΥΛΩΝΑ 19011
+Τηλ: 22950.42850-854  Fax:22950.42855</FullAddressLoading>
+    <FullAddressDelivery>8120 NE 33rd Drive, Portland 
+OR 97211, USA Federal ID# 93-0843204  USA
+Τηλ: 503-331-7328</FullAddressDelivery>
+    <LoadingDate>2023-02-03T00:00:00+02:00</LoadingDate>
+    <InTransit>false</InTransit>
+    <TransitPortOfDelivery>ESVLC</TransitPortOfDelivery>
+    <Agency>00.173</Agency>
+    <Transporter>00.657</Transporter>
+    <AgencyName>MEDITERRANEAN SHIPPING COMPANY GREECE S.A.</AgencyName>
+    <TransporterName>ΜΠΟΥΛΗΣ ΤΡΑΝΣ ΜΕΤΑΦΟΡΙΚΗ ΕΠΕ</TransporterName>
+    <SealNr>25020961</SealNr>
+    <COD>false</COD>
+    <BookingRef>230054</BookingRef>
+    <PrepaidCollect>C</PrepaidCollect>
+    <CaseSeqNo>1</CaseSeqNo>
+    <BookingSeqNo>1</BookingSeqNo>
+    <SalesManID>01</SalesManID>
+    <BookingAgentFlag>false</BookingAgentFlag>
+    <PlaceOfLoadingZipCode>19011</PlaceOfLoadingZipCode>
+    <PackageName>ΚΟΛΛΑ</PackageName>
+    <InvoiceeRef>PO#1011668494, 1011723907 Α’, 1011733689 Α’</InvoiceeRef>
+    <CargoValueCur>USD</CargoValueCur>
+    <COW>false</COW>
+    <DOW>false</DOW>
+    <Voyage>IV306A</Voyage>
+    <SimplifiedProcedure>false</SimplifiedProcedure>
+    <TaricID>6802.2100.00</TaricID>
+    <TaricName>MARBLES </TaricName>
+    <DeliveryOrderDate>2023-02-16T00:00:00+02:00</DeliveryOrderDate>
+    <Depot>00.9125</Depot>
+    <EUContainer>false</EUContainer>
+    <OrderExists>false</OrderExists>
+    <ShipperPIC>ΝΑΤΑΣΣΑ ΜΥΛΩΝΑ και ΝΤΙΝΑ ΛΑΖΗ</ShipperPIC>
+    <ConsigneeName>ANN SACKS TILE &amp; STONE</ConsigneeName>
+    <InvoiceeName>INTERGLOBO USA</InvoiceeName>
+    <Platform>false</Platform>
+    <ShipperName>THASSOS MARBLE SA</ShipperName>
+    <ShipperAddressSeqNo>0</ShipperAddressSeqNo>
+    <ConsigneeAddressSeqNo>0</ConsigneeAddressSeqNo>
+    <NotifyAddressSeqNo>0</NotifyAddressSeqNo>
+    <AgentName>INTERGLOBO USA</AgentName>
+    <CountryOfLoading>GR</CountryOfLoading>
+    <CountryOfDelivery>US</CountryOfDelivery>
+    <TransporterRef>EBKG04765240</TransporterRef>
+    <ShipperOwn>false</ShipperOwn>
+    <AgentAddressSeqNo>0</AgentAddressSeqNo>
+    <SalesmanName>ΑΡΙΣΤΟΥ ΑΡΗΣ </SalesmanName>
+    <PortOfLoadingIDName>[GRPIR] PIRAEUS</PortOfLoadingIDName>
+    <BookingAgent>00.6543</BookingAgent>
+    <BookingAgentName>ARIAN MARITIME SA</BookingAgentName>
+    <PortOfLoadingName>PIRAEUS</PortOfLoadingName>
+    <PortOfDeliveryName>BALTIMORE</PortOfDeliveryName>
+    <FreightCurrency>USD</FreightCurrency>
+    <OOG>false</OOG>
+    <ARF>false</ARF>
+    <AgencyVoyageDetail>113fe28b-d9ac-4094-a2c5-65f7f95217a1</AgencyVoyageDetail>
+    <PortOfDeliveryIDName>[USBAL] BALTIMORE</PortOfDeliveryIDName>
+    <PayableAT>COLLECT</PayableAT>
+    <InvoiceeFullDetails>INTERGLOBO USA
+2 COLONY ROAD 825 JERSEY CITY
+07305 NEW YORK USA
+Tel :516 403 4080 Fax :516 403 4088/89
+Vat Nr :134093978</InvoiceeFullDetails>
+    <SecondNotify>00.6543</SecondNotify>
+    <WayBL>true</WayBL>
+    <SecondNotifyName>ARIAN MARITIME SA</SecondNotifyName>
+    <ToOrder>false</ToOrder>
+    <ReferenceNo>230054</ReferenceNo>
+    <ProjectID>24464.1</ProjectID>
+    <LineVoyageNoExp>NK305A</LineVoyageNoExp>
+    <NotifyName>INTERGLOBO USA</NotifyName>
+    <InsuranceValueCurr>USD</InsuranceValueCurr>
+    <MBL>MEDUPI904764</MBL>
+    <ShipperFull>THASSOS MARBLE SA
+52nd KLM. NATIONAL RD. ATHENS-LAMIA  ΑΥΛΩΝΑ
+19011  
+Tel :22950.42850-854 Fax :22950.42855
+Email :dina.lazis@thassosmarblesa.gr + accounts@thassosmarblesa.gr</ShipperFull>
+    <ConsigneeFull>ANN SACKS TILE &amp; STONE
+2300 NE ARGYLE ST 97211 PORTLAND (OR) US
+USA
+Tel :503-280-9713
+Email :LANIE.HOYO@annsacks.com</ConsigneeFull>
+    <NotifyFull>INTERGLOBO USA
+2 COLONY ROAD 825 JERSEY CITY
+07305 NEW YORK USA
+Tel :516 403 4080 Fax :516 403 4088/89
+Vat Nr :134093978</NotifyFull>
+    <PortOfLoadingNameInt>PIRAEUS</PortOfLoadingNameInt>
+    <PortOfDeliveryNameInt>BALTIMORE</PortOfDeliveryNameInt>
+    <ShipperComments />
+    <ShipperDetails>THASSOS MARBLE SA
+52nd KLM. NATIONAL RD. ATHENS-LAMIA  ΑΥΛΩΝΑ
+19011 
+ΤΗΛ :22950.42850-854 ΦΑΞ :22950.42855
+
+dina.lazis@thassosmarblesa.gr + accounts@thassosmarblesa.gr</ShipperDetails>
+    <ConsigneeDetails>ANN SACKS TILE &amp; STONE
+8120 NE 33rd Drive, Portland  OR 97211, USA Federal ID# 93-0843204
+Η.Π.Α.
+ΤΗΛ :503-280-9713
+
+LANIE.HOYO@annsacks.com</ConsigneeDetails>
+    <ConsigneeComments xml:space="preserve"> </ConsigneeComments>
+    <ShipperAdressWithNo>52nd KLM. NATIONAL RD. ATHENS-LAMIA </ShipperAdressWithNo>
+    <ShipperPostalCode>19011</ShipperPostalCode>
+    <ConsigneeAdressWithNo>8120 NE 33rd Drive, Portland </ConsigneeAdressWithNo>
+    <ConsigneeCountry>US</ConsigneeCountry>
+    <ConsigneePostalCode />
+    <ConsigneePhone2 />
+    <AKLA>16/2 ANT BLCONF </AKLA>
+    <TransitPortOfDeliveryName>VALENCIA</TransitPortOfDeliveryName>
+    <TotalSell>0</TotalSell>
+    <TotalBuy>0</TotalBuy>
+    <CanBeStacked>true</CanBeStacked>
+    <InvoiceeDetails>INTERGLOBO USA
+2 COLONY ROAD 825 JERSEY CITY
+NEW YORK 07305 Η.Π.Α.
+ΤΗΛ :516 403 4080 ΦΑΞ :516 403 4088/89
+ΑΦΜ :134093978
+</InvoiceeDetails>
+    <NotifyDetails>INTERGLOBO USA
+2 COLONY ROAD 825 JERSEY CITY
+NEW YORK 07305 Η.Π.Α.
+ΤΗΛ :516 403 4080 ΦΑΞ :516 403 4088/89
+ΑΦΜ :134093978
+</NotifyDetails>
+    <AttachedCount>0</AttachedCount>
+    <CurrentTracking>b14f8572-3dcc-492b-9310-3b89dfdec691</CurrentTracking>
+    <ActualTotalSell>5316.210000</ActualTotalSell>
+    <ConsigneeFullGR>ANN SACKS TILE &amp; STONE
+8120 NE 33rd Drive, Portland  OR 97211, USA Federal ID# 93-0843204
+Η.Π.Α.
+ΤΗΛ :503-280-9713
+
+LANIE.HOYO@annsacks.com</ConsigneeFullGR>
+    <InvoiceDate>2023-02-16T00:00:00+02:00</InvoiceDate>
+    <VGWeight>19900.000000</VGWeight>
+    <MasterMoveType>1</MasterMoveType>
+    <RoyaltiesCurrency>USD</RoyaltiesCurrency>
+    <ActualSell>5316.210000</ActualSell>
+    <AgentDetails>INTERGLOBO USA
+2 COLONY ROAD 825 JERSEY CITY
+NEW YORK 07305 Η.Π.Α.
+ΤΗΛ :516 403 4080 ΦΑΞ :516 403 4088/89
+ΑΦΜ :134093978
+</AgentDetails>
+    <ConsigneeDeliveryDetails>ANN SACKS TILE &amp; STONE
+2300 NE ARGYLE ST 97211 PORTLAND (OR) US
+USA
+Tel :503-280-9713
+Email :LANIE.HOYO@annsacks.com</ConsigneeDeliveryDetails>
+    <AgencyNameEN>MEDITERRANEAN SHIPPING COMPANY GREECE S.A.</AgencyNameEN>
+    <AgentNameEN>INTERGLOBO USA</AgentNameEN>
+    <PackageNameInt>COLLIS</PackageNameInt>
+    <CargoType>0</CargoType>
+    <Quantity3>0.00</Quantity3>
+    <CaseRefSeq>PIR23/SE/31/1</CaseRefSeq>
+    <ConsigneeDiscreetTitle />
+    <WarehouseAddress xml:space="preserve">  </WarehouseAddress>
+    <DepotName>MSC</DepotName>
+    <CargoSiteID>00</CargoSiteID>
+    <LogCargoValue>0.00000000</LogCargoValue>
+    <PreCarriage>443617e0-b9b5-4fec-b65d-dd6ccf154560</PreCarriage>
+    <ShipperDiscreetTitle />
+    <InvoiceeDiscreetTitle />
+    <AgentDiscreetTitle />
+    <AgencyDiscreetTitle>MSC GREECE SA</AgencyDiscreetTitle>
+    <OrderDate>2023-02-16T00:00:00+02:00</OrderDate>
+    <ShipperIntName>THASSOS MARBLE SA</ShipperIntName>
+    <HouseMoveType>2</HouseMoveType>
+    <ConsigneePhone>503-280-9713</ConsigneePhone>
+    <NotifyPhone>516 403 4080</NotifyPhone>
+    <FinishTo>2023-02-03T00:00:00+02:00</FinishTo>
+    <ConsigneeNameInt>ANN SACKS TILE &amp; STONE</ConsigneeNameInt>
+    <ConsigneeVAT />
+    <InvoiceePaymentTermID>60C</InvoiceePaymentTermID>
+    <InvoiceePaymentTerms>60 DAYS</InvoiceePaymentTerms>
+    <ConsigneeEmail>LANIE.HOYO@annsacks.com</ConsigneeEmail>
+  </FrhtCargoActions>
+  <FrhtCargoActionsCharges>
+    <ProductID>64</ProductID>
+    <DCValue>4885.00</DCValue>
+    <CargoActionID>b0c921ec-67bd-4b50-9916-09dbf55ccf80</CargoActionID>
+    <ID>04f54924-2aa8-469f-8ae1-b6333597d1f6</ID>
+    <BuySell>2</BuySell>
+    <AssociateID>00.141</AssociateID>
+    <CurrencyID>USD</CurrencyID>
+    <BuyValue>0.00</BuyValue>
+    <SellValue>4885.00</SellValue>
+    <CurrencyRate>0.000000</CurrencyRate>
+    <AssociateName>INTERGLOBO USA</AssociateName>
+    <SortID>0</SortID>
+    <IsDivided>1</IsDivided>
+    <UnitValue>4885.000000</UnitValue>
+    <InfoValue>0.00</InfoValue>
+    <ReferenceVoucherID>SENT 1/3/23</ReferenceVoucherID>
+    <EntryDate>2023-02-09T11:35:00+02:00</EntryDate>
+    <ProductName>ΝΑΥΛΟΣ</ProductName>
+    <ProductIntName>FREIGHT</ProductIntName>
+    <DCValueEUR>4700.73</DCValueEUR>
+    <CaseChargeID>dea838f4-2e10-4947-9651-b387b1ff46aa</CaseChargeID>
+    <ID_Str>04f54924-2aa8-469f-8ae1-b6333597d1f6</ID_Str>
+  </FrhtCargoActionsCharges>
+  <FrhtCargoActionsCharges>
+    <ProductID>209</ProductID>
+    <DCValue>440.00</DCValue>
+    <CargoActionID>b0c921ec-67bd-4b50-9916-09dbf55ccf80</CargoActionID>
+    <ID>fdc18685-5025-4f9a-b9e9-aecf095dd88e</ID>
+    <BuySell>2</BuySell>
+    <AssociateID>00.141</AssociateID>
+    <CurrencyID>EUR</CurrencyID>
+    <BuyValue>0.00</BuyValue>
+    <SellValue>440.00</SellValue>
+    <CurrencyRate>0.000000</CurrencyRate>
+    <AssociateName>INTERGLOBO USA</AssociateName>
+    <SortID>1</SortID>
+    <IsDivided>1</IsDivided>
+    <UnitValue>440.000000</UnitValue>
+    <InfoValue>0.00</InfoValue>
+    <ReferenceVoucherID>SENT 1/3/23</ReferenceVoucherID>
+    <EntryDate>2023-02-09T11:35:00+02:00</EntryDate>
+    <ProductName>ΕΣΩΤΕΡΙΚΗ ΟΔΙΚΗ ΜΕΤΑΦΟΡΑ</ProductName>
+    <ProductIntName>INLAND HAULAGE</ProductIntName>
+    <DCValueEUR>440.00</DCValueEUR>
+    <CaseChargeID>07b4c84b-43bf-4663-836e-1e15bacc2369</CaseChargeID>
+    <ID_Str>fdc18685-5025-4f9a-b9e9-aecf095dd88e</ID_Str>
+  </FrhtCargoActionsCharges>
+  <FrhtCargoActionsCharges>
+    <ProductID>123</ProductID>
+    <DCValue>215.00</DCValue>
+    <CargoActionID>b0c921ec-67bd-4b50-9916-09dbf55ccf80</CargoActionID>
+    <ID>0d156875-8c37-4ade-852a-62f111cda7e4</ID>
+    <BuySell>2</BuySell>
+    <AssociateID>00.141</AssociateID>
+    <CurrencyID>EUR</CurrencyID>
+    <BuyValue>0.00</BuyValue>
+    <SellValue>215.00</SellValue>
+    <CurrencyRate>0.000000</CurrencyRate>
+    <AssociateName>INTERGLOBO USA</AssociateName>
+    <SortID>2</SortID>
+    <IsDivided>1</IsDivided>
+    <UnitValue>215.000000</UnitValue>
+    <InfoValue>0.00</InfoValue>
+    <ReferenceVoucherID>SENT 1/3/23</ReferenceVoucherID>
+    <EntryDate>2023-02-09T11:35:00+02:00</EntryDate>
+    <ProductName>FREE IN</ProductName>
+    <ProductIntName>FREE IN</ProductIntName>
+    <DCValueEUR>215.00</DCValueEUR>
+    <CaseChargeID>7106f8b8-aeed-42d2-a6e2-f54c9334caa8</CaseChargeID>
+    <ID_Str>0d156875-8c37-4ade-852a-62f111cda7e4</ID_Str>
+  </FrhtCargoActionsCharges>
+  <FrhtCargoActionsCharges>
+    <ProductID>002</ProductID>
+    <DCValue>25.00</DCValue>
+    <CargoActionID>b0c921ec-67bd-4b50-9916-09dbf55ccf80</CargoActionID>
+    <ID>e2d4fa7a-facc-4ea4-b6aa-6c66f5f300be</ID>
+    <BuySell>2</BuySell>
+    <AssociateID>00.141</AssociateID>
+    <CurrencyID>USD</CurrencyID>
+    <BuyValue>0.00</BuyValue>
+    <SellValue>25.00</SellValue>
+    <CurrencyRate>0.000000</CurrencyRate>
+    <AssociateName>INTERGLOBO USA</AssociateName>
+    <SortID>3</SortID>
+    <IsDivided>1</IsDivided>
+    <UnitValue>25.000000</UnitValue>
+    <InfoValue>0.00</InfoValue>
+    <ReferenceVoucherID>SENT 1/3/23</ReferenceVoucherID>
+    <EntryDate>2023-02-09T11:36:00+02:00</EntryDate>
+    <ProductName>ΔΙΚΑΙΩΜΑ  ΦΟΡΤΩΤΙΚΗΣ</ProductName>
+    <ProductIntName>B/L FEE</ProductIntName>
+    <DCValueEUR>24.06</DCValueEUR>
+    <CaseChargeID>700e265f-f948-473c-919a-ea6858cadd1e</CaseChargeID>
+    <ID_Str>e2d4fa7a-facc-4ea4-b6aa-6c66f5f300be</ID_Str>
+  </FrhtCargoActionsCharges>
+  <FrhtCargoActionsCharges>
+    <ProductID>1036</ProductID>
+    <DCValue>50.00</DCValue>
+    <CargoActionID>b0c921ec-67bd-4b50-9916-09dbf55ccf80</CargoActionID>
+    <ID>8ab6127c-8449-47ae-b68b-d03a960e2882</ID>
+    <BuySell>2</BuySell>
+    <AssociateID>00.141</AssociateID>
+    <CurrencyID>USD</CurrencyID>
+    <BuyValue>0.00</BuyValue>
+    <SellValue>50.00</SellValue>
+    <CurrencyRate>0.000000</CurrencyRate>
+    <AssociateName>INTERGLOBO USA</AssociateName>
+    <SortID>4</SortID>
+    <IsDivided>1</IsDivided>
+    <UnitValue>50.000000</UnitValue>
+    <InfoValue>0.00</InfoValue>
+    <ReferenceVoucherID>SENT 1/3/23</ReferenceVoucherID>
+    <EntryDate>2023-02-09T11:36:00+02:00</EntryDate>
+    <ProductName>HANDLING CHARGE</ProductName>
+    <ProductIntName>HANDLING CHARGE</ProductIntName>
+    <DCValueEUR>48.11</DCValueEUR>
+    <CaseChargeID>c14fb4ff-6438-42cb-8619-9c884fdc375c</CaseChargeID>
+    <ID_Str>8ab6127c-8449-47ae-b68b-d03a960e2882</ID_Str>
+  </FrhtCargoActionsCharges>
+  <FrhtCargoActionsCharges>
+    <ProductID>64</ProductID>
+    <DCValue>4416.00</DCValue>
+    <CargoActionID>b0c921ec-67bd-4b50-9916-09dbf55ccf80</CargoActionID>
+    <ID>2e4c243b-a4fd-4e2f-95bd-1589639a3f4d</ID>
+    <BuySell>1</BuySell>
+    <AssociateID>00.173</AssociateID>
+    <CurrencyID>USD</CurrencyID>
+    <BuyValue>4416.00</BuyValue>
+    <SellValue>0.00</SellValue>
+    <CurrencyRate>0.000000</CurrencyRate>
+    <AssociateName>MEDITERRANEAN SHIPPING COMPANY GREECE S.A.</AssociateName>
+    <SortID>5</SortID>
+    <IsDivided>1</IsDivided>
+    <UnitValue>4416.000000</UnitValue>
+    <InfoValue>0.00</InfoValue>
+    <ReferenceVoucherID>1212302123/1212302980</ReferenceVoucherID>
+    <EntryDate>2023-02-09T11:37:00+02:00</EntryDate>
+    <ProductName>ΝΑΥΛΟΣ</ProductName>
+    <ProductIntName>FREIGHT</ProductIntName>
+    <DCValueEUR>4249.42</DCValueEUR>
+    <CaseChargeID>b0125348-ba58-4261-938f-74875676168e</CaseChargeID>
+    <ID_Str>2e4c243b-a4fd-4e2f-95bd-1589639a3f4d</ID_Str>
+  </FrhtCargoActionsCharges>
+  <FrhtCargoActionsCharges>
+    <ProductID>1171</ProductID>
+    <DCValue>216.00</DCValue>
+    <CargoActionID>b0c921ec-67bd-4b50-9916-09dbf55ccf80</CargoActionID>
+    <ID>b6d735b4-2ddd-462c-8b01-aba50a20faab</ID>
+    <BuySell>1</BuySell>
+    <AssociateID>00.173</AssociateID>
+    <CurrencyID>EUR</CurrencyID>
+    <BuyValue>216.00</BuyValue>
+    <SellValue>0.00</SellValue>
+    <CurrencyRate>0.000000</CurrencyRate>
+    <AssociateName>MEDITERRANEAN SHIPPING COMPANY GREECE S.A.</AssociateName>
+    <SortID>6</SortID>
+    <IsDivided>1</IsDivided>
+    <UnitValue>216.000000</UnitValue>
+    <InfoValue>0.00</InfoValue>
+    <ReferenceVoucherID>1212302123</ReferenceVoucherID>
+    <EntryDate>2023-02-09T11:37:00+02:00</EntryDate>
+    <ProductName>FREE IN 24%</ProductName>
+    <ProductIntName>FREE IN 24%</ProductIntName>
+    <DCValueEUR>216.00</DCValueEUR>
+    <CaseChargeID>48f8c3ee-45c1-4cac-a31d-b9fd51ad51ba</CaseChargeID>
+    <ID_Str>b6d735b4-2ddd-462c-8b01-aba50a20faab</ID_Str>
+  </FrhtCargoActionsCharges>
+  <FrhtCargoActionsCharges>
+    <ProductID>1302</ProductID>
+    <DCValue>430.00</DCValue>
+    <CargoActionID>b0c921ec-67bd-4b50-9916-09dbf55ccf80</CargoActionID>
+    <ID>2979cc58-ebd8-4766-8c40-ed287b1a7794</ID>
+    <BuySell>1</BuySell>
+    <AssociateID>00.657</AssociateID>
+    <CurrencyID>EUR</CurrencyID>
+    <BuyValue>430.00</BuyValue>
+    <SellValue>0.00</SellValue>
+    <CurrencyRate>0.000000</CurrencyRate>
+    <AssociateName>ΜΠΟΥΛΗΣ ΤΡΑΝΣ ΜΕΤΑΦΟΡΙΚΗ ΕΠΕ</AssociateName>
+    <SortID>7</SortID>
+    <IsDivided>1</IsDivided>
+    <UnitValue>430.000000</UnitValue>
+    <InfoValue>0.00</InfoValue>
+    <ReferenceVoucherID>69</ReferenceVoucherID>
+    <EntryDate>2023-02-22T12:38:00+02:00</EntryDate>
+    <ProductName>ΕΣΩΤΕΡΙΚΗ ΜΕΤΑΦΟΡΑ &amp; ΓΕΡΑΝΟΣ 24%</ProductName>
+    <ProductIntName />
+    <DCValueEUR>430.00</DCValueEUR>
+    <CaseChargeID>7542dd2a-dd0b-4a2c-9d4e-4c3a68c802d3</CaseChargeID>
+    <ID_Str>2979cc58-ebd8-4766-8c40-ed287b1a7794</ID_Str>
+  </FrhtCargoActionsCharges>
+  <FrhtCagoCasesCharges>
+    <ProductID>64</ProductID>
+    <DCValue>4885.00</DCValue>
+    <CaseID>b8ccde76-e61a-4e07-816c-f35c2ad4ce97</CaseID>
+    <ID>dea838f4-2e10-4947-9651-b387b1ff46aa</ID>
+    <BuySell>2</BuySell>
+    <AssociateID>00.141</AssociateID>
+    <CurrencyID>USD</CurrencyID>
+    <BuyValue>0.00</BuyValue>
+    <SellValue>4885.00</SellValue>
+    <DivisionType>0</DivisionType>
+    <SeqNo>1</SeqNo>
+    <ProductName>ΝΑΥΛΟΣ</ProductName>
+    <AssociateName>INTERGLOBO USA</AssociateName>
+    <CurrencyRate>0.000000</CurrencyRate>
+    <Invoiced>0</Invoiced>
+    <ReferenceVoucherID>SENT 1/3/23</ReferenceVoucherID>
+    <InfoValue>0.00</InfoValue>
+    <EntryDate>2023-02-09T11:35:00+02:00</EntryDate>
+    <DCValueEUR>4700.73</DCValueEUR>
+    <DCValueWithVAT>4700.73</DCValueWithVAT>
+    <DCVatValue>0</DCVatValue>
+  </FrhtCagoCasesCharges>
+  <FrhtCagoCasesCharges>
+    <ProductID>209</ProductID>
+    <DCValue>440.00</DCValue>
+    <CaseID>b8ccde76-e61a-4e07-816c-f35c2ad4ce97</CaseID>
+    <ID>07b4c84b-43bf-4663-836e-1e15bacc2369</ID>
+    <BuySell>2</BuySell>
+    <AssociateID>00.141</AssociateID>
+    <CurrencyID>EUR</CurrencyID>
+    <BuyValue>0.00</BuyValue>
+    <SellValue>440.00</SellValue>
+    <DivisionType>0</DivisionType>
+    <SeqNo>2</SeqNo>
+    <ProductName>ΕΣΩΤΕΡΙΚΗ ΟΔΙΚΗ ΜΕΤΑΦΟΡΑ</ProductName>
+    <AssociateName>INTERGLOBO USA</AssociateName>
+    <CurrencyRate>0.000000</CurrencyRate>
+    <Invoiced>0</Invoiced>
+    <ReferenceVoucherID>SENT 1/3/23</ReferenceVoucherID>
+    <InfoValue>0.00</InfoValue>
+    <EntryDate>2023-02-09T11:35:00+02:00</EntryDate>
+    <DCValueEUR>440</DCValueEUR>
+    <DCValueWithVAT>440</DCValueWithVAT>
+    <DCVatValue>0</DCVatValue>
+  </FrhtCagoCasesCharges>
+  <FrhtCagoCasesCharges>
+    <ProductID>123</ProductID>
+    <DCValue>215.00</DCValue>
+    <CaseID>b8ccde76-e61a-4e07-816c-f35c2ad4ce97</CaseID>
+    <ID>7106f8b8-aeed-42d2-a6e2-f54c9334caa8</ID>
+    <BuySell>2</BuySell>
+    <AssociateID>00.141</AssociateID>
+    <CurrencyID>EUR</CurrencyID>
+    <BuyValue>0.00</BuyValue>
+    <SellValue>215.00</SellValue>
+    <DivisionType>0</DivisionType>
+    <SeqNo>3</SeqNo>
+    <ProductName>FREE IN</ProductName>
+    <AssociateName>INTERGLOBO USA</AssociateName>
+    <CurrencyRate>0.000000</CurrencyRate>
+    <Invoiced>0</Invoiced>
+    <ReferenceVoucherID>SENT 1/3/23</ReferenceVoucherID>
+    <InfoValue>0.00</InfoValue>
+    <EntryDate>2023-02-09T11:35:00+02:00</EntryDate>
+    <DCValueEUR>215</DCValueEUR>
+    <DCValueWithVAT>215</DCValueWithVAT>
+    <DCVatValue>0</DCVatValue>
+  </FrhtCagoCasesCharges>
+  <FrhtCagoCasesCharges>
+    <ProductID>002</ProductID>
+    <DCValue>25.00</DCValue>
+    <CaseID>b8ccde76-e61a-4e07-816c-f35c2ad4ce97</CaseID>
+    <ID>700e265f-f948-473c-919a-ea6858cadd1e</ID>
+    <BuySell>2</BuySell>
+    <AssociateID>00.141</AssociateID>
+    <CurrencyID>USD</CurrencyID>
+    <BuyValue>0.00</BuyValue>
+    <SellValue>25.00</SellValue>
+    <DivisionType>0</DivisionType>
+    <SeqNo>4</SeqNo>
+    <ProductName>ΔΙΚΑΙΩΜΑ  ΦΟΡΤΩΤΙΚΗΣ</ProductName>
+    <AssociateName>INTERGLOBO USA</AssociateName>
+    <CurrencyRate>0.000000</CurrencyRate>
+    <Invoiced>0</Invoiced>
+    <ReferenceVoucherID>SENT 1/3/23</ReferenceVoucherID>
+    <InfoValue>0.00</InfoValue>
+    <EntryDate>2023-02-09T11:36:00+02:00</EntryDate>
+    <DCValueEUR>24.06</DCValueEUR>
+    <DCValueWithVAT>24.06</DCValueWithVAT>
+    <DCVatValue>0</DCVatValue>
+  </FrhtCagoCasesCharges>
+  <FrhtCagoCasesCharges>
+    <ProductID>1036</ProductID>
+    <DCValue>50.00</DCValue>
+    <CaseID>b8ccde76-e61a-4e07-816c-f35c2ad4ce97</CaseID>
+    <ID>c14fb4ff-6438-42cb-8619-9c884fdc375c</ID>
+    <BuySell>2</BuySell>
+    <AssociateID>00.141</AssociateID>
+    <CurrencyID>USD</CurrencyID>
+    <BuyValue>0.00</BuyValue>
+    <SellValue>50.00</SellValue>
+    <DivisionType>0</DivisionType>
+    <SeqNo>5</SeqNo>
+    <ProductName>HANDLING CHARGE</ProductName>
+    <AssociateName>INTERGLOBO USA</AssociateName>
+    <CurrencyRate>0.000000</CurrencyRate>
+    <Invoiced>0</Invoiced>
+    <ReferenceVoucherID>SENT 1/3/23</ReferenceVoucherID>
+    <InfoValue>0.00</InfoValue>
+    <EntryDate>2023-02-09T11:36:00+02:00</EntryDate>
+    <DCValueEUR>48.11</DCValueEUR>
+    <DCValueWithVAT>48.11</DCValueWithVAT>
+    <DCVatValue>0</DCVatValue>
+  </FrhtCagoCasesCharges>
+  <FrhtCagoCasesCharges>
+    <ProductID>64</ProductID>
+    <DCValue>4416.00</DCValue>
+    <CaseID>b8ccde76-e61a-4e07-816c-f35c2ad4ce97</CaseID>
+    <ID>b0125348-ba58-4261-938f-74875676168e</ID>
+    <BuySell>1</BuySell>
+    <AssociateID>00.173</AssociateID>
+    <CurrencyID>USD</CurrencyID>
+    <BuyValue>4416.00</BuyValue>
+    <SellValue>0.00</SellValue>
+    <DivisionType>0</DivisionType>
+    <SeqNo>6</SeqNo>
+    <ProductName>ΝΑΥΛΟΣ</ProductName>
+    <AssociateName>MEDITERRANEAN SHIPPING COMPANY GREECE S.A.</AssociateName>
+    <CurrencyRate>0.000000</CurrencyRate>
+    <Invoiced>0</Invoiced>
+    <ReferenceVoucherID>1212302123/1212302980</ReferenceVoucherID>
+    <InfoValue>0.00</InfoValue>
+    <EntryDate>2023-02-09T11:37:00+02:00</EntryDate>
+    <DCValueEUR>4249.42</DCValueEUR>
+    <DCValueWithVAT>4249.42</DCValueWithVAT>
+    <DCVatValue>0</DCVatValue>
+  </FrhtCagoCasesCharges>
+  <FrhtCagoCasesCharges>
+    <ProductID>1171</ProductID>
+    <DCValue>216.00</DCValue>
+    <CaseID>b8ccde76-e61a-4e07-816c-f35c2ad4ce97</CaseID>
+    <ID>48f8c3ee-45c1-4cac-a31d-b9fd51ad51ba</ID>
+    <BuySell>1</BuySell>
+    <AssociateID>00.173</AssociateID>
+    <CurrencyID>EUR</CurrencyID>
+    <BuyValue>216.00</BuyValue>
+    <SellValue>0.00</SellValue>
+    <DivisionType>0</DivisionType>
+    <SeqNo>7</SeqNo>
+    <ProductName>FREE IN 24%</ProductName>
+    <AssociateName>MEDITERRANEAN SHIPPING COMPANY GREECE S.A.</AssociateName>
+    <CurrencyRate>0.000000</CurrencyRate>
+    <Invoiced>0</Invoiced>
+    <ReferenceVoucherID>1212302123</ReferenceVoucherID>
+    <InfoValue>0.00</InfoValue>
+    <EntryDate>2023-02-09T11:37:00+02:00</EntryDate>
+    <DCValueEUR>216</DCValueEUR>
+    <DCValueWithVAT>216</DCValueWithVAT>
+    <DCVatValue>0</DCVatValue>
+  </FrhtCagoCasesCharges>
+  <FrhtCagoCasesCharges>
+    <ProductID>1302</ProductID>
+    <DCValue>430.00</DCValue>
+    <CaseID>b8ccde76-e61a-4e07-816c-f35c2ad4ce97</CaseID>
+    <ID>7542dd2a-dd0b-4a2c-9d4e-4c3a68c802d3</ID>
+    <BuySell>1</BuySell>
+    <AssociateID>00.657</AssociateID>
+    <CurrencyID>EUR</CurrencyID>
+    <BuyValue>430.00</BuyValue>
+    <SellValue>0.00</SellValue>
+    <DivisionType>0</DivisionType>
+    <SeqNo>8</SeqNo>
+    <ProductName>ΕΣΩΤΕΡΙΚΗ ΜΕΤΑΦΟΡΑ &amp; ΓΕΡΑΝΟΣ 24%</ProductName>
+    <AssociateName>ΜΠΟΥΛΗΣ ΤΡΑΝΣ ΜΕΤΑΦΟΡΙΚΗ ΕΠΕ</AssociateName>
+    <CurrencyRate>0.000000</CurrencyRate>
+    <Invoiced>0</Invoiced>
+    <ReferenceVoucherID>69</ReferenceVoucherID>
+    <InfoValue>0.00</InfoValue>
+    <EntryDate>2023-02-22T12:38:00+02:00</EntryDate>
+    <DCValueEUR>430</DCValueEUR>
+    <DCValueWithVAT>430</DCValueWithVAT>
+    <DCVatValue>0</DCVatValue>
+  </FrhtCagoCasesCharges>
+  <FrhtCargoTracking>
+    <CargoID>1df3e4fc-a943-4309-bcc6-30b2f3cae7a4</CargoID>
+    <TrackingDate>2023-02-20T00:00:01+02:00</TrackingDate>
+    <TrackingTypeID>75c4b7d3-37fe-431a-b335-2a7b79355b8d</TrackingTypeID>
+    <Comments />
+    <IsProspected>false</IsProspected>
+    <PublicDate>2023-02-20T00:00:01+02:00</PublicDate>
+    <TrackingTypeName>Αναχώριση</TrackingTypeName>
+    <EDISent>false</EDISent>
+    <CreateDate>2023-04-21T11:10:08.853+03:00</CreateDate>
+    <Username>giorgos</Username>
+  </FrhtCargoTracking>
+  <FrhtCargoTracking>
+    <CargoID>1df3e4fc-a943-4309-bcc6-30b2f3cae7a4</CargoID>
+    <TrackingDate>2023-03-22T00:00:03+02:00</TrackingDate>
+    <TrackingTypeID>b14f8572-3dcc-492b-9310-3b89dfdec691</TrackingTypeID>
+    <Comments />
+    <IsProspected>false</IsProspected>
+    <PublicDate>2023-03-22T00:00:03+02:00</PublicDate>
+    <TrackingTypeName>Άφιξη</TrackingTypeName>
+    <EDISent>false</EDISent>
+    <CreateDate>2023-04-21T11:10:08.857+03:00</CreateDate>
+    <Username>giorgos</Username>
+  </FrhtCargoTracking>
+  <TotalCaseCharges>
+    <AssociateName>00.141</AssociateName>
+    <Currency>EUR</Currency>
+    <Value>655.00</Value>
+    <ReferenceVoucherID>SENT 1/3/23</ReferenceVoucherID>
+  </TotalCaseCharges>
+  <TotalCaseCharges>
+    <AssociateName>00.173</AssociateName>
+    <Currency>EUR</Currency>
+    <Value>-216.00</Value>
+    <ReferenceVoucherID>1212302123</ReferenceVoucherID>
+  </TotalCaseCharges>
+  <TotalCaseCharges>
+    <AssociateName>00.141</AssociateName>
+    <Currency>USD</Currency>
+    <Value>4960.00</Value>
+    <ReferenceVoucherID>SENT 1/3/23</ReferenceVoucherID>
+  </TotalCaseCharges>
+  <TotalCaseCharges>
+    <AssociateName>00.657</AssociateName>
+    <Currency>EUR</Currency>
+    <Value>-430.00</Value>
+    <ReferenceVoucherID>69</ReferenceVoucherID>
+  </TotalCaseCharges>
+  <TotalCaseCharges>
+    <AssociateName>00.173</AssociateName>
+    <Currency>USD</Currency>
+    <Value>-4416.00</Value>
+    <ReferenceVoucherID>1212302123/1212302980</ReferenceVoucherID>
+  </TotalCaseCharges>
+  <AcctVoucherDetailsProjects>
+    <VoucherName>2023.39.112.20230645</VoucherName>
+    <VoucherEntryDate>2023-02-28T00:00:00+02:00</VoucherEntryDate>
+    <AssociateID>00.141</AssociateID>
+    <AssociateName>INTERGLOBO USA</AssociateName>
+    <CurrencyID>USD</CurrencyID>
+    <CurrencyRate>1.064100</CurrencyRate>
+    <ProductID>002</ProductID>
+    <ProductName>ΔΙΚΑΙΩΜΑ  ΦΟΡΤΩΤΙΚΗΣ</ProductName>
+    <DebitValue>0.000000</DebitValue>
+    <CreditValue>23.490000</CreditValue>
+    <DebitValueCur>0.000000</DebitValueCur>
+    <CreditValueCur>25.000000</CreditValueCur>
+    <IsDetail>false</IsDetail>
+  </AcctVoucherDetailsProjects>
+  <AcctVoucherDetailsProjects>
+    <VoucherName>2023.39.112.20230645</VoucherName>
+    <VoucherEntryDate>2023-02-28T00:00:00+02:00</VoucherEntryDate>
+    <AssociateID>00.141</AssociateID>
+    <AssociateName>INTERGLOBO USA</AssociateName>
+    <CurrencyID>USD</CurrencyID>
+    <CurrencyRate>1.064100</CurrencyRate>
+    <ProductID>1036</ProductID>
+    <ProductName>HANDLING CHARGE</ProductName>
+    <DebitValue>0.000000</DebitValue>
+    <CreditValue>46.990000</CreditValue>
+    <DebitValueCur>0.000000</DebitValueCur>
+    <CreditValueCur>50.000000</CreditValueCur>
+    <IsDetail>false</IsDetail>
+  </AcctVoucherDetailsProjects>
+  <AcctVoucherDetailsProjects>
+    <VoucherName>2023.39.112.20230645</VoucherName>
+    <VoucherEntryDate>2023-02-28T00:00:00+02:00</VoucherEntryDate>
+    <AssociateID>00.141</AssociateID>
+    <AssociateName>INTERGLOBO USA</AssociateName>
+    <CurrencyID>USD</CurrencyID>
+    <CurrencyRate>1.064100</CurrencyRate>
+    <ProductID>123</ProductID>
+    <ProductName>FREE IN</ProductName>
+    <DebitValue>0.000000</DebitValue>
+    <CreditValue>215.000000</CreditValue>
+    <DebitValueCur>0.000000</DebitValueCur>
+    <CreditValueCur>228.780000</CreditValueCur>
+    <IsDetail>false</IsDetail>
+  </AcctVoucherDetailsProjects>
+  <AcctVoucherDetailsProjects>
+    <VoucherName>2023.39.112.20230645</VoucherName>
+    <VoucherEntryDate>2023-02-28T00:00:00+02:00</VoucherEntryDate>
+    <AssociateID>00.141</AssociateID>
+    <AssociateName>INTERGLOBO USA</AssociateName>
+    <CurrencyID>USD</CurrencyID>
+    <CurrencyRate>1.064100</CurrencyRate>
+    <ProductID>209</ProductID>
+    <ProductName>ΕΣΩΤΕΡΙΚΗ ΟΔΙΚΗ ΜΕΤΑΦΟΡΑ</ProductName>
+    <DebitValue>0.000000</DebitValue>
+    <CreditValue>440.000000</CreditValue>
+    <DebitValueCur>0.000000</DebitValueCur>
+    <CreditValueCur>468.200000</CreditValueCur>
+    <IsDetail>false</IsDetail>
+  </AcctVoucherDetailsProjects>
+  <AcctVoucherDetailsProjects>
+    <VoucherName>2023.39.112.20230645</VoucherName>
+    <VoucherEntryDate>2023-02-28T00:00:00+02:00</VoucherEntryDate>
+    <AssociateID>00.141</AssociateID>
+    <AssociateName>INTERGLOBO USA</AssociateName>
+    <CurrencyID>USD</CurrencyID>
+    <CurrencyRate>1.064100</CurrencyRate>
+    <ProductID>64</ProductID>
+    <ProductName>ΝΑΥΛΟΣ</ProductName>
+    <DebitValue>0.000000</DebitValue>
+    <CreditValue>4590.730000</CreditValue>
+    <DebitValueCur>0.000000</DebitValueCur>
+    <CreditValueCur>4885.000000</CreditValueCur>
+    <IsDetail>false</IsDetail>
+  </AcctVoucherDetailsProjects>
+  <AcctVoucherDetailsProjects>
+    <VoucherName>2023.ΠΤΑ.134.17</VoucherName>
+    <VoucherEntryDate>2023-03-10T00:00:00+02:00</VoucherEntryDate>
+    <AssociateID>00.173</AssociateID>
+    <AssociateName>MEDITERRANEAN SHIPPING COMPANY GREECE S.A.</AssociateName>
+    <CurrencyID>USD</CurrencyID>
+    <CurrencyRate>1.039861</CurrencyRate>
+    <ProductID>64</ProductID>
+    <ProductName>ΝΑΥΛΟΣ</ProductName>
+    <DebitValue>-144.250000</DebitValue>
+    <CreditValue>0.000000</CreditValue>
+    <DebitValueCur>-150.000000</DebitValueCur>
+    <CreditValueCur>0.000000</CreditValueCur>
+    <IsDetail>true</IsDetail>
+  </AcctVoucherDetailsProjects>
+  <AcctVoucherDetailsProjects>
+    <VoucherName>2023.ΤΑΗ.132.525</VoucherName>
+    <VoucherEntryDate>2023-02-24T00:00:00+02:00</VoucherEntryDate>
+    <AssociateID>00.173</AssociateID>
+    <AssociateName>MEDITERRANEAN SHIPPING COMPANY GREECE S.A.</AssociateName>
+    <CurrencyID>EUR</CurrencyID>
+    <CurrencyRate>1.000000</CurrencyRate>
+    <ProductID>1171</ProductID>
+    <ProductName>FREE IN 24%</ProductName>
+    <DebitValue>216.000000</DebitValue>
+    <CreditValue>0.000000</CreditValue>
+    <DebitValueCur>216.000000</DebitValueCur>
+    <CreditValueCur>0.000000</CreditValueCur>
+    <IsDetail>true</IsDetail>
+  </AcctVoucherDetailsProjects>
+  <AcctVoucherDetailsProjects>
+    <VoucherName>2023.ΤΑΗ.132.525</VoucherName>
+    <VoucherEntryDate>2023-02-24T00:00:00+02:00</VoucherEntryDate>
+    <AssociateID>00.173</AssociateID>
+    <AssociateName>MEDITERRANEAN SHIPPING COMPANY GREECE S.A.</AssociateName>
+    <CurrencyID>USD</CurrencyID>
+    <CurrencyRate>1.039828</CurrencyRate>
+    <ProductID>64</ProductID>
+    <ProductName>ΝΑΥΛΟΣ</ProductName>
+    <DebitValue>4391.110000</DebitValue>
+    <CreditValue>0.000000</CreditValue>
+    <DebitValueCur>4566.000000</DebitValueCur>
+    <CreditValueCur>0.000000</CreditValueCur>
+    <IsDetail>true</IsDetail>
+  </AcctVoucherDetailsProjects>
+  <AcctVoucherDetailsProjects>
+    <VoucherName>2023.ΤΑΗ.132.586</VoucherName>
+    <VoucherEntryDate>2023-02-06T00:00:00+02:00</VoucherEntryDate>
+    <AssociateID>00.657</AssociateID>
+    <AssociateName>ΜΠΟΥΛΗΣ ΤΡΑΝΣ ΜΕΤΑΦΟΡΙΚΗ ΕΠΕ</AssociateName>
+    <CurrencyID>EUR</CurrencyID>
+    <CurrencyRate>1.000000</CurrencyRate>
+    <ProductID>1302</ProductID>
+    <ProductName>ΕΣΩΤΕΡΙΚΗ ΜΕΤΑΦΟΡΑ &amp; ΓΕΡΑΝΟΣ 24%</ProductName>
+    <DebitValue>430.000000</DebitValue>
+    <CreditValue>0.000000</CreditValue>
+    <DebitValueCur>430.000000</DebitValueCur>
+    <CreditValueCur>0.000000</CreditValueCur>
+    <IsDetail>true</IsDetail>
+  </AcctVoucherDetailsProjects>
+  <AcctVoucherDetailsProjectsCargoes>
+    <AssociateID>00.141</AssociateID>
+    <DebitValue>0.000000</DebitValue>
+    <CreditValue>5316.210000</CreditValue>
+    <CargoActionID>b0c921ec-67bd-4b50-9916-09dbf55ccf80</CargoActionID>
+  </AcctVoucherDetailsProjectsCargoes>
+</docCase>
